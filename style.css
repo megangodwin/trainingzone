@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #C7C7C7
+}
+
+h1 {
+	color: aliceblue;
+	font-variant-caps: small-caps;
+	
+}
+
+.sidebar {
+	background-color: #4E72B0;
+	width: 200px;
+	float: left;
+	margin: 10px 0 0 0 
+}
+
+.contact {
+	background-color: #4E72B0;
+	position: fixed;
+	width: 200px
+	
+}
+
+.banner {
+	background-color: #83C6EB;
+	padding: 10px;
+}
+
+.navlink {
+	
+}
+
+.content {
+	background-color: lightskyblue;
+	padding: 10px;
+	margin: 10px 0 0 210px
+}
